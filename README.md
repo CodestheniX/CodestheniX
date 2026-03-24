@@ -22,7 +22,10 @@
 
 ### 🌐 Frontend (Learning)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-3178C6?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-00796B?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 👾 GameDev
 ![RPG Maker](https://img.shields.io/badge/RPG_Maker-7c3aed?style=for-the-badge&logo=Devbox&logoColor=white)
