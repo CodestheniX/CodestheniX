@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Codestheni✘
 
-💻 Software Developer | ERP | Delphi | SQL  
-🚀 Transitioning into modern Fullstack Development (Angular & Flutter)  
-🧠 Focused on improving workflows & modernizing legacy systems
+💻 Software Developer | ERP-Systems  
+⚙️ Delphi • SQL • Business Logic  
+🚀 Expanding into modern Fullstack-Development (Angular & Flutter)  
 
 ---
 
@@ -16,25 +16,24 @@
 
 ## 🛠 Tech Stack
 
-### 💾 Backend & Core
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+### 💾 Backend & Core [Main Quests]
+[![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)](https://github.com/CodestheniX?tab=repositories&q=delphi)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/CodestheniX?tab=repositories&q=sql)
 
-### 🌐 Frontend (Learning)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 📲 Frontend & Mobile [Leveling Up]
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/CodestheniX?tab=repositories&q=angular)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/CodestheniX?tab=repositories&q=typescript)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-00796B?style=for-the-badge&logo=dart&logoColor=white)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/CodestheniX?tab=repositories&q=flutter)
+[![Dart](https://img.shields.io/badge/Dart-00796B?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/CodestheniX?tab=repositories&q=dart)
 
-### 👾 GameDev
-![RPG Maker](https://img.shields.io/badge/RPG_Maker-7c3aed?style=for-the-badge&logo=Devbox&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-1f1f1f?style=for-the-badge&logo=roblox&logoColor=white)
-
+### 👾 Game Development [Side Quests]
+[![RPG Maker](https://img.shields.io/badge/RPG_Maker-7c3aed?style=for-the-badge&logo=Devbox&logoColor=white)](https://github.com/CodestheniX?tab=repositories&q=rpg)
+[![Roblox](https://img.shields.io/badge/Roblox-1f1f1f?style=for-the-badge&logo=roblox&logoColor=white)](https://github.com/CodestheniX?tab=repositories&q=roblox)
 
 ### ⚙️ Tools & Concepts
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)](https://github.com/CodestheniX?tab=repositories&q=api)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CodestheniX?tab=repositories)
 
 ---
 
