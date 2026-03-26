@@ -1,20 +1,21 @@
 # 👋 Hi, I'm Codestheni✘
 
-💻 Software Developer | ERP-Systems  
-⚙️ Delphi • SQL • Business Logic  
+👨‍💻 Software Developer | ERP Systems  
+🧱 Delphi • SQL • Business Logic  
 🚀 Expanding into modern Fullstack-Development (Angular & Flutter)  
 
 ---
 
 ## </> About Me
 
-- 🔭 Working on improving my development skills  
-- 🌱 Currently learning **Angular, Flutter & modern fullstack architectures**  
-- 💬 Ask me about **Delphi, SQL, ERP systems & tooling**  
+- 🏭 Building and maintaining **ERP Systems with Delphi & SQL**  
+- 📈 Currently learning **Angular, Flutter & modern fullstack architectures**
+- 🎮 Exploring **Game Development & creative coding** 
+- 💬 _Always building - Always leveling up_ 
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### 💾 Backend & Core [Main Quests]
 [![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)](https://github.com/CodestheniX?tab=repositories&q=delphi)
@@ -37,32 +38,22 @@
 
 ---
 
-## 🚀 Featured Project
+## ⚡ Featured Projects
 
-### 🔧 SQL Function Converter
-🧠 Converts SQL functions into executable SQL blocks automatically  
+### 🛠️ SQL Function Converter
+💡 Converts SQL functions into executable SQL blocks automatically  
 
 - Extracts parameters  
 - Generates `DECLARE` & `SET` statements  
-- Built with Delphi (Windows Desktop App)  
+- Built with Delphi 12 (Windows Desktop App)  
 - Designed for ERP & legacy database workflows  
 
-👉 https://github.com/CodestheniX/SQL-Function-Converter  
+→ https://github.com/CodestheniX/SQL-Function-Converter 
 
 ---
-
 
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodestheniX&layout=compact&theme=tokyonight)
-
----
-
-
-## 🎯 Goals
-
-- 🚀 Build modern fullstack applications  
-- 🔄 Combine legacy ERP knowledge with modern tech  
-- 🛠 Create tools that improve developer productivity  
 
 ---
